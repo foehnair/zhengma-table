@@ -1,4 +1,6 @@
 ## 郑码字表备份
+### ibus
+来自https://github.com/acevery/ibus-table-zhengma
 ### Rime
 来自https://github.com/acevery/rime-zhengma
 ### OpenVanilla
